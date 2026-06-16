@@ -1,4 +1,10 @@
-# MSAI-631-A02-HariRamachandran
-This repository is created for MSAI-631 coursework
+# LLM Chatbot for Human-Computer Interaction
 
+This project demonstrates a conversational chatbot built using:
 
+- Python
+- Hugging Face Transformers
+- Gradio
+- Google Colab
+
+The chatbot accepts natural language questions and generates AI-based responses.
